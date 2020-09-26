@@ -3,9 +3,9 @@
 
 ## Usage
 ```bash
-git clone 
+git clone https://github.com/rgab1508/ascii_gameoflife.git
 cd ascii_gameoflife
 python gameoflife.py
 ```
 
-for more options : ```bash python gameoflife -h```
+for more options : ```python gameoflife -h```
