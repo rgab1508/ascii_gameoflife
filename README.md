@@ -1,5 +1,5 @@
 # Ascii version of Conwey's Game of life
-
+GREG WAS HERE
 
 ## Usage
 ```bash
